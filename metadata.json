@@ -1,0 +1,6 @@
+{
+  "name": "ATS Pro – AI Resume Builder & Career Optimizer",
+  "description": "Create, analyze, and optimize ATS-friendly resumes with AI tailored to target job descriptions, featuring keyword analysis, skill gap tracking, and interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
